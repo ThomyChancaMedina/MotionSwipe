@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Casts</string>
+
+
+    <!-- Languages -->
+    <string name="hidden">Country</string>
+    <string name="spain">España</string>
+    <string name="english">Reino unido</string>
+    <string name="french">Francia</string>
+    <string name="portugal">Portugal</string>
+
+</resources>
